@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0119-pascals-triangle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0119-pascals-triangle-ii) |
 ## Tree
 |  |
 | ------- |
