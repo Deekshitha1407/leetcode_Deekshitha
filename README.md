@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0118-pascals-triangle) |
 ## Tree
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deekshitha1407/leetcode_Deekshitha/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
